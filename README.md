@@ -1,2 +1,2 @@
-# python-Certificate
-Python learning on udemy
+# Certificates
+learning on udemy, Internshala, and different platforms
